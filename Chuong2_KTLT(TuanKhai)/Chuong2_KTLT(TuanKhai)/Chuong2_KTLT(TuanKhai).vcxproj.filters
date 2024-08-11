@@ -57,5 +57,8 @@
     <ClCompile Include="BTTrang86.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="BT_Trang89.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

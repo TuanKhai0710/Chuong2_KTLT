@@ -42,5 +42,8 @@
     <ClCompile Include="BTCau2_61.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="BT_Cau2,4_65.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

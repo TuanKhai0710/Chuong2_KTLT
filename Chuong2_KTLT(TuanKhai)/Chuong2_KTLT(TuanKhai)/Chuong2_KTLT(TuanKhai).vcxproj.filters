@@ -48,5 +48,8 @@
     <ClCompile Include="Bai2_70.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="BTTrang_78.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -1,13 +1,14 @@
-﻿Build started 8/11/2024 6:12:57 PM.
+﻿Build started 8/11/2024 6:58:23 PM.
      1>Project "C:\Users\KHAI\Documents\Visual Studio 2013\Projects\Chuong2_KTLT\Chuong2_KTLT(TuanKhai)\Chuong2_KTLT(TuanKhai)\Chuong2_KTLT(TuanKhai).vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "BT_Cau2,4_65.cpp"
-         BT_Cau2,4_65.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Bai2_70.cpp
+         Bai2_70.cpp
+     1>c:\users\khai\documents\visual studio 2013\projects\chuong2_ktlt\chuong2_ktlt(tuankhai)\chuong2_ktlt(tuankhai)\bai2_70.cpp(31): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\KHAI\Documents\Visual Studio 2013\Projects\Chuong2_KTLT\Chuong2_KTLT(TuanKhai)\Debug\Chuong2_KTLT(TuanKhai).exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\KHAI\Documents\Visual Studio 2013\Projects\Chuong2_KTLT\Chuong2_KTLT(TuanKhai)\Debug\Chuong2_KTLT(TuanKhai).pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\KHAI\Documents\Visual Studio 2013\Projects\Chuong2_KTLT\Chuong2_KTLT(TuanKhai)\Debug\Chuong2_KTLT(TuanKhai).lib" /MACHINE:X86 "Debug\BT_Cau2,4_65.obj"
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\KHAI\Documents\Visual Studio 2013\Projects\Chuong2_KTLT\Chuong2_KTLT(TuanKhai)\Debug\Chuong2_KTLT(TuanKhai).exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\KHAI\Documents\Visual Studio 2013\Projects\Chuong2_KTLT\Chuong2_KTLT(TuanKhai)\Debug\Chuong2_KTLT(TuanKhai).pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\KHAI\Documents\Visual Studio 2013\Projects\Chuong2_KTLT\Chuong2_KTLT(TuanKhai)\Debug\Chuong2_KTLT(TuanKhai).lib" /MACHINE:X86 Debug\Bai2_70.obj
          Chuong2_KTLT(TuanKhai).vcxproj -> C:\Users\KHAI\Documents\Visual Studio 2013\Projects\Chuong2_KTLT\Chuong2_KTLT(TuanKhai)\Debug\Chuong2_KTLT(TuanKhai).exe
      1>Done Building Project "C:\Users\KHAI\Documents\Visual Studio 2013\Projects\Chuong2_KTLT\Chuong2_KTLT(TuanKhai)\Chuong2_KTLT(TuanKhai)\Chuong2_KTLT(TuanKhai).vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:02.19
+Time Elapsed 00:00:02.02
